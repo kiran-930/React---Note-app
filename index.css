@@ -1,0 +1,15 @@
+
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: "Roboto", sans-serif;
+   
+
+    box-sizing: border-box;
+   
+  }
+body{
+  background-image: url('./assets/photo.avif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
